@@ -1,3 +1,3 @@
-# pianfan.github.io
+# nhr-nick.github.io
 
 My Personal Blog via GitHub
